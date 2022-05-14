@@ -2,7 +2,7 @@
   "name": "react-tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edgarbrignoni.github.io",
+  "homepage": "https://edgarbrignoni.github.io/react-tictactoe",
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
